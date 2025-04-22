@@ -1,0 +1,28 @@
+[  
+    {  
+        "nombre": "Material para Impresión", 
+        "es_sistema": true,  
+        "descripcion": "Paquetes de Hojas, Láminas y medios destinados a la Impresión en los Centros"  
+    },  
+    {  
+        "nombre": "Mercancías para la Venta",  
+        "es_sistema": true,  
+        "descripcion": "Productos destinados a la Venta"  
+    },  
+    {  
+        "nombre": "Insumos",  
+        "descripcion": "Es todo aquello disponible para el uso y el desarrollo de la vida humana, desde lo que encontramos en la naturaleza, hasta lo que creamos nosotros mismos, es decir, la materia prima de una cosa"  
+    },  
+    {  
+        "nombre": "Material de Oficina",  
+        "descripcion": "El material de oficina abarca una amplia gama de productos, desde elementos básicos de escritura como bolígrafos, cuadernos y reglas, hasta equipos más complejos como impresoras y organizadores. Es esencial para la organización y productividad en cualquier entorno de trabajo, incluyendo artículos de diferentes tamaños de papel, marcadores, tinta y tóner."  
+    },  
+    {  
+        "nombre": "Medios de Tecnología",  
+        "descripcion": "Insumos destinados al buen funcionamiento de los Centros"  
+    },  
+    {  
+        "nombre": "Otros",  
+        "descripcion": "Categorías sin Clasificar"  
+    } 
+]  
